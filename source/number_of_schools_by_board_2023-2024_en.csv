@@ -1,0 +1,77 @@
+Region,Board Number,Board Name,Board Language,Board Type,Elementary,Secondary,Total
+North Region,B28010,Algoma DSB,English,Pub Dist Sch Brd (E/F),34.0,11.0,45
+East Region,B67202,Algonquin and Lakeshore CDSB,English,Cath Dist Sch Brd (E/F),34.0,6.0,40
+West Region,B66010,Avon Maitland DSB,English,Pub Dist Sch Brd (E/F),36.0,9.0,45
+West Region,B66001,Bluewater DSB,English,Pub Dist Sch Brd (E/F),40.0,10.0,50
+West Region,B67164,Brant Haldimand Norfolk CDSB,English,Cath Dist Sch Brd (E/F),28.0,4.0,32
+West Region,B67008,Bruce-Grey CDSB,English,Cath Dist Sch Brd (E/F),11.0,2.0,13
+East Region,B67172,CDSB of Eastern Ontario,English,Cath Dist Sch Brd (E/F),38.0,11.0,49
+Toronto Region,B66303,CS Viamonde,French,Pub Dist Sch Brd (E/F),58.0,16.0,74
+Toronto Region,B67318,CS catholique MonAvenir,French,Cath Dist Sch Brd (E/F),60.0,13.0,73
+North Region,B28118,CS public du Grand Nord de l'Ontario,French,Pub Dist Sch Brd (E/F),17.0,8.0,25
+North Region,B28100,CS public du Nord-Est de l'Ontario,French,Pub Dist Sch Brd (E/F),10.0,8.0,18
+North Region,B29114,CSDC Franco-Nord,French,Cath Dist Sch Brd (E/F),13.0,3.0,16
+East Region,B67326,CSDC de l'Est ontarien,French,Cath Dist Sch Brd (E/F),32.0,7.0,39
+North Region,B29130,CSDC des Aurores boréales,French,Cath Dist Sch Brd (E/F),10.0,1.0,11
+North Region,B29106,CSDC des Grandes Rivières,French,Cath Dist Sch Brd (E/F),28.0,8.0,36
+East Region,B67334,CSDC du Centre-Est de l'Ontario,French,Cath Dist Sch Brd (E/F),57.0,15.0,72
+North Region,B29122,CSDC du Nouvel-Ontario,French,Cath Dist Sch Brd (E/F),28.0,10.0,38
+West Region,B67300,Conseil scolaire catholique Providence,French,Cath Dist Sch Brd (E/F),28.0,8.0,36
+East Region,B66311,CÉP de l'Est de l'Ontario,French,Pub Dist Sch Brd (E/F),37.0,15.0,52
+West Region,B66150,DSB Niagara,English,Pub Dist Sch Brd (E/F),79.0,17.0,96
+North Region,B28002,DSB Ontario North East,English,Pub Dist Sch Brd (E/F),25.0,10.0,35
+Central Region,B67083,Dufferin-Peel CDSB,English,Cath Dist Sch Brd (E/F),126.0,26.0,152
+East Region,B67105,Durham CDSB,English,Cath Dist Sch Brd (E/F),40.0,8.0,48
+East Region,B66060,Durham DSB,English,Pub Dist Sch Brd (E/F),111.0,19.0,130
+West Region,B66168,Grand Erie DSB,English,Pub Dist Sch Brd (E/F),58.0,14.0,72
+West Region,B66028,Greater Essex County DSB,English,Pub Dist Sch Brd (E/F),54.0,14.0,68
+Central Region,B67113,Halton CDSB,English,Cath Dist Sch Brd (E/F),45.0,12.0,57
+Central Region,B66133,Halton DSB,English,Pub Dist Sch Brd (E/F),90.0,18.0,108
+West Region,B67121,Hamilton-Wentworth CDSB,English,Cath Dist Sch Brd (E/F),49.0,8.0,57
+West Region,B66141,Hamilton-Wentworth DSB,English,Pub Dist Sch Brd (E/F),82.0,17.0,99
+East Region,B66222,Hastings & Prince Edward DSB,English,Pub Dist Sch Brd (E/F),38.0,7.0,45
+West Region,B67016,Huron Perth CDSB,English,Cath Dist Sch Brd (E/F),16.0,2.0,18
+North Region,B29025,Huron-Superior CDSB,English,Cath Dist Sch Brd (E/F),16.0,1.0,17
+North Region,B15148,James Bay Lowlands SSB,English,Sec Sch Brd (Sch Auth),,1.0,1
+East Region,B66079,Kawartha Pine Ridge DSB,English,Pub Dist Sch Brd (E/F),73.0,16.0,89
+North Region,B28045,Keewatin-Patricia DSB,English,Pub Dist Sch Brd (E/F),17.0,6.0,23
+North Region,B29050,Kenora CDSB,English,Cath Dist Sch Brd (E/F),5.0,1.0,6
+North Region,B28061,Lakehead DSB,English,Pub Dist Sch Brd (E/F),22.0,4.0,26
+West Region,B66036,Lambton Kent DSB,English,Pub Dist Sch Brd (E/F),52.0,12.0,64
+East Region,B66206,Limestone DSB,English,Pub Dist Sch Brd (E/F),50.0,14.0,64
+West Region,B67032,London District Catholic School Board,English,Cath Dist Sch Brd (E/F),43.0,10.0,53
+North Region,B15199,Moose Factory Island DSAB,English,Public School Board,1.0,,1
+North Region,B15202,Moosonee DSAB,English,Public School Board,1.0,,1
+North Region,B28037,Near North DSB,English,Pub Dist Sch Brd (E/F),30.0,6.0,36
+West Region,B67156,Niagara CDSB,English,Cath Dist Sch Brd (E/F),49.0,11.0,60
+North Region,B29017,Nipissing-Parry Sound CDSB,English,Cath Dist Sch Brd (E/F),11.0,1.0,12
+North Region,B29009,Northeastern CDSB,English,Cath Dist Sch Brd (E/F),12.0,1.0,13
+North Region,B29041,Northwest CDSB,English,Cath Dist Sch Brd (E/F),5.0,,5
+East Region,B67180,Ottawa CSB,English,Cath Dist Sch Brd (E/F),84.0,16.0,100
+East Region,B66184,Ottawa-Carleton DSB,English,Pub Dist Sch Brd (E/F),120.0,31.0,151
+Central Region,B66125,Peel DSB,English,Pub Dist Sch Brd (E/F),219.0,39.0,258
+Central Region,B79910,Penetanguishene PSSB,English,Prot Sep Sch Brd (Sch Auth),1.0,,1
+East Region,B67067,Peterborough Victoria Northumberland and Clarington CDSB,English,Cath Dist Sch Brd (E/F),30.0,7.0,37
+North Region,B28029,Rainbow DSB,English,Pub Dist Sch Brd (E/F),34.0,12.0,46
+North Region,B28053,Rainy River DSB,English,Pub Dist Sch Brd (E/F),11.0,3.0,14
+East Region,B67199,Renfrew County CDSB,English,Cath Dist Sch Brd (E/F),20.0,2.0,22
+East Region,B66214,Renfrew County DSB,English,Pub Dist Sch Brd (E/F),21.0,8.0,29
+Central Region,B66109,Simcoe County DSB,English,Pub Dist Sch Brd (E/F),89.0,16.0,105
+Central Region,B67091,Simcoe Muskoka CDSB,English,Cath Dist Sch Brd (E/F),42.0,9.0,51
+West Region,B67040,St Clair CDSB,English,Cath Dist Sch Brd (E/F),23.0,2.0,25
+North Region,B29033,Sudbury CDSB,English,Cath Dist Sch Brd (E/F),16.0,4.0,20
+North Region,B29076,Superior North CDSB,English,Cath Dist Sch Brd (E/F),8.0,,8
+North Region,B28070,Superior-Greenstone DSB,English,Pub Dist Sch Brd (E/F),10.0,5.0,15
+West Region,B66044,Thames Valley DSB,English,Pub Dist Sch Brd (E/F),131.0,29.0,160
+North Region,B29068,Thunder Bay CDSB,English,Cath Dist Sch Brd (E/F),18.0,2.0,20
+Toronto Region,B67059,Toronto CDSB,English,Cath Dist Sch Brd (E/F),167.0,38.0,205
+Toronto Region,B66052,Toronto DSB,English,Pub Dist Sch Brd (E/F),470.0,109.0,579
+Central Region,B66087,Trillium Lakelands DSB,English,Pub Dist Sch Brd (E/F),41.0,8.0,49
+East Region,B66192,Upper Canada DSB,English,Pub Dist Sch Brd (E/F),75.0,22.0,97
+West Region,B66117,Upper Grand DSB,English,Pub Dist Sch Brd (E/F),65.0,14.0,79
+West Region,B67148,Waterloo CDSB,English,Cath Dist Sch Brd (E/F),44.0,6.0,50
+West Region,B66176,Waterloo Region DSB,English,Pub Dist Sch Brd (E/F),106.0,17.0,123
+West Region,B67130,Wellington CDSB,English,Cath Dist Sch Brd (E/F),18.0,4.0,22
+West Region,B67024,Windsor-Essex CDSB,English,Cath Dist Sch Brd (E/F),35.0,9.0,44
+Central Region,B67075,York CDSB,English,Cath Dist Sch Brd (E/F),88.0,16.0,104
+Central Region,B66095,York Region DSB,English,Pub Dist Sch Brd (E/F),180.0,34.0,214
