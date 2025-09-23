@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-networkx
-matplotlib
-seaborn
-geopy
-streamlit-option-menu

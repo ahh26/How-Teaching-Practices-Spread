@@ -9,7 +9,7 @@ from matplotlib.patches import Patch
 import seaborn as sns
 from helpers import SchoolBoardNetwork, DiffusionModel, select_initial_adopters,get_unadopted_boards_info,show_unadopted_boards
 
-data_folder='/Users/antheaaaa_hax/Desktop/EducationalResourcesDistributionProject/source' 
+data_folder='./source' 
 
 network = SchoolBoardNetwork()
 network.load_school_data(data_folder + "/board_summary.csv")
