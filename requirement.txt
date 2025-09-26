@@ -1,7 +1,0 @@
-echo "streamlit
-pandas
-numpy
-networkx
-matplotlib
-seaborn
-plotly" > requirements.txt
